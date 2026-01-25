@@ -1,0 +1,18 @@
+{
+  "name": "3.3-postman",
+  "version": "1.0.0",
+  "description": "1. Refer to the documentation of Express in order to understand the method app.use() fully.\r 2. Refer to w3schools to understand functions and callbacks better\r 3. What is the next() function? while building middlewares?",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.1.11"
+  },
+  "devDependencies": {}
+}
